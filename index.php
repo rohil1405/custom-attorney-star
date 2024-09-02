@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="./images/favicon.png">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/media.css">
-    <script src="./js/setting.js"></script>  
+    <script src="./js/setting.js"></script>
 </head>
 
 <body>
@@ -18,7 +18,7 @@
             <div class="container">
                 <div class='header-main'>
                     <div class='logo'>
-                        <a href="index.php">
+                        <a href="index.php" targer="_self">
                             <img src="./images/attorneystar.png" alt="Attorneyster" width='398' height='79'>
                         </a>
                     </div>
@@ -32,7 +32,7 @@
                             </p>
                         </div>
                         <div class="cta-btn">
-                            <a href='contact.php'>
+                            <a href='contact.php' target='_self'>
                                 Book a Consultation
                             </a>
                         </div>
@@ -43,30 +43,30 @@
                     <nav class='header-links'>
                         <ul>
                             <li>
-                                <a href="index.php">
+                                <a href="index.php" target='_self'>
                                     Home
                                 </a>
                             </li>
                             <li>
-                                <a href="about-us.php">
+                                <a href="about-us.php" target='_self'>
                                     About us
                                 </a>
                             </li>
                             <li class='header-pages'>
-                                <a>
+                                <a target='_self'>
                                     Pages
                                     <img src='./images/page-arrow.png' alt='dropdown-menu'>
                                 </a>
                                 <div class='header-page-content'>
-                                    <a href='practice-area.php'>Practice Area</a>
-                                    <a href='pricing.php'>Pricing</a>
-                                    <a href='case-result.php'>Cases</a>
-                                    <a href='blog.php'>Blog</a>
-                                    <a href='testimonials.php'>Testimonials</a>
+                                    <a href='practice-area.php' target='_self'>Practice Area</a>
+                                    <a href='pricing.php' target='_self'>Pricing</a>
+                                    <a href='case-result.php' target='_self'>Cases</a>
+                                    <a href='blog.php' target='_self'>Blog</a>
+                                    <a href='testimonials.php' target='_self'>Testimonials</a>
                                 </div>
                             </li>
                             <li>
-                                <a href="contact.php">
+                                <a href="contact.php" target='_self'>
                                     Contact Us
                                 </a>
                             </li>
@@ -79,26 +79,26 @@
                     <div class="mobile-nav">
                         <nav>
                             <div class="mobile-menu-link">
-                                <a href="index.php">Home</a>
+                                <a href="index.php" target='_self'>Home</a>
                             </div>
                             <div class="mobile-menu-link">
-                                <a href="about-us.php">About us </a>
+                                <a href="about-us.php" target='_self'>About us </a>
                             </div>
                             <div class="mobile-menu-link pages">
-                                <a>
+                                <a target='_self'>
                                     Pages
                                     <img src='./images/page-arrow.png' alt='dropdown-menu'>
                                 </a>
                                 <div class='mobile-page-content'>
-                                    <a href='practice-area.php'>Practice Area</a>
-                                    <a href='pricing.php'>Pricing</a>
-                                    <a href='case-result.php'>Cases</a>
-                                    <a href='blog.php'>Blog</a>
-                                    <a href='testimonials.php'>Testimonials</a>
+                                    <a href='practice-area.php' target='_self'>Practice Area</a>
+                                    <a href='pricing.php' target='_self'>Pricing</a>
+                                    <a href='case-result.php' target='_self'>Cases</a>
+                                    <a href='blog.php' target='_self'>Blog</a>
+                                    <a href='testimonials.php' target='_self'>Testimonials</a>
                                 </div>
                             </div>
                             <div class="mobile-menu-link">
-                                <a href="contact.php">Contact Us</a>
+                                <a href="contact.php" target='_self'>Contact Us</a>
                             </div>
                         </nav>
                     </div>
@@ -112,7 +112,7 @@
                                 <div class='contact-wrap'>
                                     Call Us On:
                                 </div>
-                                <a href="tel: 987654321">
+                                <a href="tel: 987654321" target='_self'>
                                     911-987654321
                                 </a>
                             </div>
@@ -126,7 +126,7 @@
                                 <div class='contact-wrap'>
                                     Email Us:
                                 </div>
-                                <a href="mailto:yourmail@mail.com">
+                                <a href="mailto:yourmail@mail.com" target='_self'>
                                     yourmail@mail.com
                                 </a>
                             </div>
@@ -154,7 +154,7 @@
                             </p>
                         </div>
                         <div class='cta-btn btn'>
-                            <a href="about-us.php">
+                            <a href="about-us.php" target='_self'>
                                 Get In Touch
                             </a>
                         </div>
@@ -292,7 +292,7 @@
                                 <img src="./images/bag-icon.png" alt="Business-law" width='55' height='48'>
                             </div>
                             <div class='cta-btn sm-btn'>
-                                <a href='business-law.php'>
+                                <a href='business-law.php' target='_self'>
                                     Learn More
                                 </a>
                             </div>
@@ -317,7 +317,7 @@
                                 <img src="./images/construction-icon.png" alt="Construction-Law" width='63' height='55'>
                             </div>
                             <div class='cta-btn sm-btn'>
-                                <a href='practice-area.php'>
+                                <a href='practice-area.php' target='_self'>
                                     Learn More
                                 </a>
                             </div>
@@ -342,7 +342,7 @@
                                 <img src="./images/car-icon.png" alt="Car-Accident" width='70' height='44'>
                             </div>
                             <div class='cta-btn sm-btn'>
-                                <a href='cases-single.php'>
+                                <a href='cases-single.php' target='_self'>
                                     Learn More
                                 </a>
                             </div>
@@ -367,7 +367,7 @@
                                 <img src="./images/death-icon.png" alt="Wrongful-Death" width='53' height='64'>
                             </div>
                             <div class='cta-btn sm-btn'>
-                                <a href='practice-area.php'>
+                                <a href='practice-area.php' target='_self'>
                                     Learn More
                                 </a>
                             </div>
@@ -392,7 +392,7 @@
                                 <img src="./images/law-icon.png" alt="Criminal-Law" width='53' height='55'>
                             </div>
                             <div class='cta-btn sm-btn'>
-                                <a href='practice-area.php'>
+                                <a href='practice-area.php' target='_self'>
                                     Learn More
                                 </a>
                             </div>
@@ -417,7 +417,7 @@
                                 <img src="./images/family-icon.png" alt="Family-Law" width='56' height='41'>
                             </div>
                             <div class='cta-btn sm-btn'>
-                                <a href='practice-area.php'>
+                                <a href='practice-area.php' target='_self'>
                                     Learn More
                                 </a>
                             </div>
@@ -524,19 +524,19 @@
                     </div>
 
                     <div class="meet-logos">
-                        <a>
+                        <a href="#" target="_self">
                             <img src="./images/home.png" alt="home-logo" width='137' height='44'>
                         </a>
-                        <a>
-                            <img src="./images/vs.png" alt="vs-logo" width='107' height='106'>
+                        <a href="#" target="_self">
+                            <img src=" ./images/vs.png" alt="vs-logo" width='107' height='106'>
                         </a>
-                        <a>
+                        <a href="#" target="_self">
                             <img src="./images/brand.png" alt="brand-logo" width='170' height='44'>
                         </a>
-                        <a>
+                        <a href="#" target="_self">
                             <img src="./images/nature-home.png" alt="natural-home-logo" width='151' height='46'>
                         </a>
-                        <a>
+                        <a href="#" target="_self">
                             <img src="./images/classic.png" alt="classic-logo" width='122' height='49'>
                         </a>
                     </div>
@@ -746,7 +746,7 @@
 
 
                         <div class="cta-btn btn">
-                            <a href="contact.php">
+                            <a href="contact.php" href="#" target="_self">
                                 Free Consulting
                             </a>
                         </div>
@@ -894,7 +894,7 @@
             </div>
             <ul class="team-item-listing">
                 <li>
-                    <a href="#">
+                    <a href="#" target="_self">
                         <img src="./images/experience-one.png" alt="experienc-person" width='448' height='593'>
                     </a>
 
@@ -902,19 +902,19 @@
                         <div class="item-content">
                             <div class="team-social-media">
                                 <a href='https://www.instagram.com/' target="_blank">
-                                    <img src='./images/instagram.png' width='20' height='19'/>
+                                    <img src='./images/instagram.png' width='20' height='19' />
                                 </a>
 
                                 <a href='https://www.facebook.com/' target="_blank">
-                                    <img src='./images/facebook.png' alt='facebook' width='20' height='19'/>
+                                    <img src='./images/facebook.png' alt='facebook' width='20' height='19' />
                                 </a>
 
                                 <a href='https://www.twitter.com/' target="_blank">
-                                    <img src='./images/twitter.png' alt='twitter' width='21' height='17'/>
+                                    <img src='./images/twitter.png' alt='twitter' width='21' height='17' />
                                 </a>
 
                                 <a href='https://www.pintrest.com/' target="_blank">
-                                    <img src='./images/rest.png' alt='twitter' width='20' height='20'/>
+                                    <img src='./images/rest.png' alt='twitter' width='20' height='20' />
                                 </a>
                             </div>
                             <div class="team-info">
@@ -925,7 +925,7 @@
                                     Civil Attorney
                                 </div>
                             </div>
-                            
+
                         </div>
                     </div>
                 </li>
@@ -937,21 +937,21 @@
 
                     <div class="experience-content">
                         <div class="item-content">
-                        <div class="team-social-media">
-                        <a href='https://www.instagram.com/' target="_blank">
-                                    <img src='./images/instagram.png' width='20' height='19'/>
+                            <div class="team-social-media">
+                                <a href='https://www.instagram.com/' target="_blank">
+                                    <img src='./images/instagram.png' width='20' height='19' />
                                 </a>
 
                                 <a href='https://www.facebook.com/' target="_blank">
-                                    <img src='./images/facebook.png' alt='facebook' width='20' height='19'/>
+                                    <img src='./images/facebook.png' alt='facebook' width='20' height='19' />
                                 </a>
 
                                 <a href='https://www.twitter.com/' target="_blank">
-                                    <img src='./images/twitter.png' alt='twitter' width='21' height='17'/>
+                                    <img src='./images/twitter.png' alt='twitter' width='21' height='17' />
                                 </a>
 
                                 <a href='https://www.pintrest.com/' target="_blank">
-                                    <img src='./images/rest.png' alt='twitter' width='20' height='20'/>
+                                    <img src='./images/rest.png' alt='twitter' width='20' height='20' />
                                 </a>
                             </div>
                             <div class="team-info">
@@ -973,21 +973,21 @@
 
                     <div class="experience-content">
                         <div class="item-content">
-                        <div class="team-social-media">
-                        <a href='https://www.instagram.com/' target="_blank">
-                                    <img src='./images/instagram.png' width='20' height='19'/>
+                            <div class="team-social-media">
+                                <a href='https://www.instagram.com/' target="_blank">
+                                    <img src='./images/instagram.png' width='20' height='19' />
                                 </a>
 
                                 <a href='https://www.facebook.com/' target="_blank">
-                                    <img src='./images/facebook.png' alt='facebook' width='20' height='19'/>
+                                    <img src='./images/facebook.png' alt='facebook' width='20' height='19' />
                                 </a>
 
                                 <a href='https://www.twitter.com/' target="_blank">
-                                    <img src='./images/twitter.png' alt='twitter' width='21' height='17'/>
+                                    <img src='./images/twitter.png' alt='twitter' width='21' height='17' />
                                 </a>
 
                                 <a href='https://www.pintrest.com/' target="_blank">
-                                    <img src='./images/rest.png' alt='twitter' width='20' height='20'/>
+                                    <img src='./images/rest.png' alt='twitter' width='20' height='20' />
                                 </a>
                             </div>
                             <div class="team-info">
@@ -1004,7 +1004,7 @@
             </ul>
             <div class='team-cta'>
                 <div class='cta-btn l-btn'>
-                    <a href='testimonials.php'>
+                    <a href='testimonials.php' target="_self">
                         Meet Attorney
                     </a>
                 </div>
@@ -1029,7 +1029,7 @@
                         </p>
 
                         <div class='cta-btn btn'>
-                            <a href='contact.php'>
+                            <a href='contact.php' target="_self">
                                 Contact us
                             </a>
                         </div>
@@ -1064,7 +1064,7 @@
                                         Call Us On:
                                     </div>
                                     <div class="contact-number">
-                                        <a href="tel: 987654321">
+                                        <a href="tel: 987654321" target="_self">
                                             911-987654321
                                         </a>
                                     </div>
@@ -1107,9 +1107,9 @@
                         </div>
 
                         <div class='cta-btn l-btn'>
-                            <a>
+                            <button>
                                 Get An Appoinment
-                            </a>
+                            </button>
                         </div>
 
                     </form>
@@ -1129,7 +1129,7 @@
 
             <div class="recent-blogs-section">
                 <div class="recent-blog-left">
-                    <a href="blog.php">
+                    <a href="blog.php" target="_self">
                         <img src="./images/Blog-image.png" alt="blog-image" width='696' height='463'>
                     </a>
                 </div>
@@ -1137,7 +1137,7 @@
                 <div class="recent-blog-right">
                     <div class="category-blog ">
                         <div class="category-blog-content">
-                            <a href="blog-single.php">
+                            <a href="blog-single.php" target="_self">
                                 Criminal Law, Kidnapping
                             </a>
                         </div>
@@ -1160,7 +1160,7 @@
                     </div>
 
                     <div class="cta-btn">
-                        <a href="blog-single.php">
+                        <a href="blog-single.php" target="_self">
                             Read More
                         </a>
                     </div>
@@ -1170,7 +1170,7 @@
             <ul class="blog-listing">
                 <li>
                     <div class="blog-img">
-                        <a href="business-law.php">
+                        <a href="business-law.php" target="_self">
                             <img src="./images/blog-one.png" alt="blog-image" width='443' height='334'>
                         </a>
                     </div>
@@ -1195,17 +1195,17 @@
 
                                 </h3>
                             </div>
-                                <p>
-                                    There are of Lorem Ipsum available,
-                                    but the majority have su alteration
-                                    in some form, by injected oir which
-                                    don't look even slightly believable.
-                                </p>
-                            
+                            <p>
+                                There are of Lorem Ipsum available,
+                                but the majority have su alteration
+                                in some form, by injected oir which
+                                don't look even slightly believable.
+                            </p>
+
                         </div>
 
                         <div class="cta-btn">
-                            <a href="business-law.php">
+                            <a href="business-law.php" target="_self">
                                 Read More
                             </a>
                         </div>
@@ -1214,7 +1214,7 @@
 
                 <li>
                     <div class="blog-img">
-                        <a href="#">
+                        <a href="#" target="_self">
                             <img src="./images/blog-two.png" alt="blog-image" width='443' height='334'>
                         </a>
                     </div>
@@ -1222,8 +1222,8 @@
                     <div class="multi-blogs-details">
                         <div class="category-blog ">
                             <div class="category-blog-content">
-                                <a href="blog-single.php">
-                                    Legal Advice 
+                                <a href="blog-single.php" target="_self">
+                                    Legal Advice
                                 </a>
                             </div>
                             <div class="category-blog-date">
@@ -1239,18 +1239,18 @@
 
                                 </h3>
                             </div>
-                          
-                                <p>
-                                    There are of Lorem Ipsum available,
-                                    but the majority have su alteration
-                                    in some form, by injected oir which
-                                    don't look even slightly believable.
-                                </p>
-                            
+
+                            <p>
+                                There are of Lorem Ipsum available,
+                                but the majority have su alteration
+                                in some form, by injected oir which
+                                don't look even slightly believable.
+                            </p>
+
                         </div>
 
                         <div class="cta-btn">
-                            <a href="blog-single.php">
+                            <a href="blog-single.php" target="_self">
                                 Read More
                             </a>
                         </div>
@@ -1259,7 +1259,7 @@
 
                 <li>
                     <div class="blog-img">
-                        <a href="blog-single.php">
+                        <a href="blog-single.php" target="_self">
                             <img src="./images/blog-three.png" alt="blog-image" width='443' height='334'>
                         </a>
                     </div>
@@ -1267,7 +1267,7 @@
                     <div class="multi-blogs-details">
                         <div class="category-blog ">
                             <div class="category-blog-content">
-                                <a href="blog-single.php">
+                                <a href="blog-single.php" target="_self">
                                     Legal Advice
                                 </a>
                             </div>
@@ -1282,18 +1282,18 @@
                                     How Legal Professionals Work: The Defense Objects In The Event
                                 </h3>
                             </div>
-                            
-                                <p>
-                                    There are of Lorem Ipsum available,
-                                    but the majority have su alteration
-                                    in some form, by injected oir which
-                                    don't look even slightly believable.
-                                </p>
-                            
+
+                            <p>
+                                There are of Lorem Ipsum available,
+                                but the majority have su alteration
+                                in some form, by injected oir which
+                                don't look even slightly believable.
+                            </p>
+
                         </div>
 
                         <div class="cta-btn">
-                            <a href="blog-single.php">
+                            <a href="blog-single.php" target="_self">
                                 Read More
                             </a>
                         </div>
@@ -1302,7 +1302,7 @@
 
                 <li>
                     <div class="blog-img">
-                        <a href="business-law.php">
+                        <a href="business-law.php" target="_self">
                             <img src="./images/blog-four.png" alt="blog-image" width='443' height='334'>
                         </a>
                     </div>
@@ -1310,8 +1310,8 @@
                     <div class="multi-blogs-details">
                         <div class="category-blog ">
                             <div class="category-blog-content">
-                                <a href="business-law.php">
-                                    Legal Advice 
+                                <a href="business-law.php" target="_self">
+                                    Legal Advice
                                 </a>
                             </div>
                             <div class="category-blog-date">
@@ -1325,19 +1325,19 @@
                                     Riding solo to the rescue of her beloved nonprofits
                                 </h3>
                             </div>
-                            
-                                <p>
-                                    There are of Lorem Ipsum available,
-                                    but the majority have su alteration
-                                    in some form, by injected oir which
-                                    don't look even slightly believable.
-                                </p>
-                           
+
+                            <p>
+                                There are of Lorem Ipsum available,
+                                but the majority have su alteration
+                                in some form, by injected oir which
+                                don't look even slightly believable.
+                            </p>
+
                         </div>
 
                         <div class="blog-more-details">
                             <div class="cta-btn">
-                                <a href="blog.php">
+                                <a href="blog.php" target="_self">
                                     Read More
                                 </a>
                             </div>
@@ -1347,7 +1347,7 @@
 
                 <li>
                     <div class="blog-img">
-                        <a href="business-law.php" class="text-link">
+                        <a href="business-law.php" target="_self" class="text-link">
                             <img src="./images/blog-five.png" alt="blog-image" width='443' height='334'>
                         </a>
                     </div>
@@ -1355,8 +1355,8 @@
                     <div class="multi-blogs-details">
                         <div class="category-blog ">
                             <div class="category-blog-content">
-                                <a href="blog.php">
-                                    Legal Advice 
+                                <a href="blog.php" target="_self">
+                                    Legal Advice
                                 </a>
                             </div>
                             <div class="category-blog-date">
@@ -1370,18 +1370,18 @@
                                     Case Filed on Behalf of Injured Tugboat Worker
                                 </h3>
                             </div>
-                           
-                                <p>
-                                    There are of Lorem Ipsum available,
-                                    but the majority have su alteration
-                                    in some form, by injected oir which
-                                    don't look even slightly believable.
-                                </p>
-                           
+
+                            <p>
+                                There are of Lorem Ipsum available,
+                                but the majority have su alteration
+                                in some form, by injected oir which
+                                don't look even slightly believable.
+                            </p>
+
                         </div>
 
                         <div class="cta-btn">
-                            <a href="blog.php">
+                            <a href="blog.php" target="_self">
                                 Read More
                             </a>
                         </div>
@@ -1390,7 +1390,7 @@
 
                 <li>
                     <div class="blog-img">
-                        <a href="blog.php">
+                        <a href="blog.php" target="_self">
                             <img src="./images/blog-six.png" alt="blog-image" width='443' height='334'>
                         </a>
                     </div>
@@ -1398,8 +1398,8 @@
                     <div class="multi-blogs-details">
                         <div class="category-blog ">
                             <div class="category-blog-content">
-                                <a href="business-law.php">
-                                    Legal Advice 
+                                <a href="business-law.php" target="_self">
+                                    Legal Advice
                                 </a>
                             </div>
                             <div class="category-blog-date">
@@ -1415,17 +1415,17 @@
 
                                 </h3>
                             </div>
-                                <p>
-                                    There are of Lorem Ipsum available,
-                                    but the majority have su alteration
-                                    in some form, by injected oir which
-                                    don't look even slightly believable.
-                                </p>
-                        
+                            <p>
+                                There are of Lorem Ipsum available,
+                                but the majority have su alteration
+                                in some form, by injected oir which
+                                don't look even slightly believable.
+                            </p>
+
                         </div>
 
                         <div class="cta-btn">
-                            <a href="blog.php">
+                            <a href="blog.php" target="_self">
                                 Read More
                             </a>
                         </div>
@@ -1449,7 +1449,7 @@
             <footer>
                 <div class='footer-top'>
                     <div class="footer-logo">
-                        <a href='index.php'>
+                        <a href='index.php' target="_self">
                             <img src="./images/attorneystar.png" alt="Attorneyster" width='398' height='79'>
                         </a>
                     </div>
@@ -1461,18 +1461,18 @@
                             </div>
 
                             <ul>
-                                <li><a href='index.php'>Home</a></li>
+                                <li><a href='index.php' target="_self">Home</a></li>
 
-                                <li><a href='#'>Lawyer Single</a></li>
-                                <li><a href='about-us.php'>About</a></li>
-                                <li><a href='case-result.php'>Case Results</a></li>
-                                <li><a href='contact.php'>Contact</a></li>
-                                <li><a href='practice-area.php'>Practice Area</a></li>
-                                <li><a href='blog.php'>Blog</a></li>
-                                <li><a href='pricing.php'>Packages</a></li>
-                                <li><a href='blog-single.php'>Blog Post</a></li>
-                                <li><a href='#'>Package Single</a></li>
-                                <li><a href='#'>Lawyers</a></li>
+                                <li><a href='#' target="_self">Lawyer Single</a></li>
+                                <li><a href='about-us.php' target="_self">About</a></li>
+                                <li><a href='case-result.php' target="_self">Case Results</a></li>
+                                <li><a href='contact.php' target="_self">Contact</a></li>
+                                <li><a href='practice-area.php' target="_self">Practice Area</a></li>
+                                <li><a href='blog.php' target="_self">Blog</a></li>
+                                <li><a href='pricing.php' target="_self">Packages</a></li>
+                                <li><a href='blog-single.php' target="_self">Blog Post</a></li>
+                                <li><a href='#' target="_self">Package Single</a></li>
+                                <li><a href='#' target="_self">Lawyers</a></li>
                                 <ul>
                         </div>
 
@@ -1482,13 +1482,13 @@
                             </div>
 
                             <ul>
-                                <li><a href='#'>Start Here</a></li>
-                                <li><a href='#'>Style Guide</a></li>
-                                <li><a href='404.php'>404 Not Found</a></li>
-                                <li><a href='password-protection.php'>Password Protected</a></li>
-                                <li><a href='licenses.php'>Licenses</a></li>
+                                <li><a href='#' target="_self">Start Here</a></li>
+                                <li><a href='#' target="_self">Style Guide</a></li>
+                                <li><a href='404.php' target="_self">404 Not Found</a></li>
+                                <li><a href='password-protection.php' target="_self">Password Protected</a></li>
+                                <li><a href='licenses.php' target="_self">Licenses</a></li>
                                 <li><a href='changelog.php
-                                '>Changelog</a></li>
+                                ' target="_self">Changelog</a></li>
                             </ul>
                         </div>
 
@@ -1498,11 +1498,11 @@
                             </div>
 
                             <ul>
-                                <li><a href='#'>Family Law</a></li>
-                                <li> <a href='#'>Criminal Law</a></li>
-                                <li><a href='cases-single.php'>Parsonal Injury</a></li>
-                                <li><a href='#'>Real Estate Law</a></li>
-                                <li><a href='business-law.php'>Business Law</a></li>
+                                <li><a href='#' target="_self">Family Law</a></li>
+                                <li> <a href='#' target="_self">Criminal Law</a></li>
+                                <li><a href='cases-single.php' target="_self">Parsonal Injury</a></li>
+                                <li><a href='#' target="_self">Real Estate Law</a></li>
+                                <li><a href='business-law.php' target="_self">Business Law</a></li>
                             </ul>
                         </div>
 
@@ -1521,13 +1521,13 @@
                                 </li>
                                 <li>
                                     <p>Phone: </p>
-                                    <a href="tel: 987654321">
+                                    <a href="tel: 987654321" target="_self">
                                         (011) 987654321
                                     </a>
                                 </li>
                                 <li>
                                     <p>Email: </p>
-                                    <a href='mailto:info@example.com'>
+                                    <a href='mailto:info@example.com' target="_self">
                                         Info@Example.com
                                     </a>
                                 </li>

@@ -18,7 +18,7 @@
             <div class="container">
                 <div class='header-main'>
                     <div class='logo'>
-                        <a href="index.php">
+                        <a href="index.php" target="_self">
                             <img src="./images/attorneystar.png" alt="Attorneyster" width='398' height='79'>
                         </a>
                     </div>
@@ -32,7 +32,7 @@
                             </p>
                         </div>
                         <div class="cta-btn">
-                            <a href='contact.php'>
+                            <a href='contact.php' target="_self">
                                 Book a Consultation
                             </a>
                         </div>
@@ -43,30 +43,30 @@
                     <nav class='header-links'>
                         <ul>
                             <li>
-                                <a href="index.php">
+                                <a href="index.php" target="_self">
                                     Home
                                 </a>
                             </li>
                             <li>
-                                <a href="about-us.php">
+                                <a href="about-us.php" target="_self">
                                     About us
                                 </a>
                             </li>
-                            <li class='header-pages'>
-                                <a>
+                            <li class='header-pages' target="_self">
+                                <a target="_self">
                                     Pages
                                     <img src='./images/page-arrow.png' alt='dropdown-menu'>
                                 </a>
                                 <div class='header-page-content'>
-                                    <a href='practice-area.php'>Practice Area</a>
-                                    <a href='pricing.php'>Pricing</a>
-                                    <a href='case-result.php'>Cases</a>
-                                    <a href='blog.php'>Blog</a>
-                                    <a href='testimonials.php'>Testimonials</a>
+                                    <a href='practice-area.php' target="_self">Practice Area</a>
+                                    <a href='pricing.php' target="_self">Pricing</a>
+                                    <a href='case-result.php' target="_self">Cases</a>
+                                    <a href='blog.php' target="_self">Blog</a>
+                                    <a href='testimonials.php' target="_self">Testimonials</a>
                                 </div>
                             </li>
                             <li>
-                                <a href="contact.php">
+                                <a href="contact.php" target="_self">
                                     Contact Us
                                 </a>
                             </li>
@@ -79,26 +79,26 @@
                     <div class="mobile-nav">
                         <nav>
                             <div class="mobile-menu-link">
-                                <a href="index.php">Home</a>
+                                <a href="index.php" target="_self">Home</a>
                             </div>
                             <div class="mobile-menu-link">
-                                <a href="about-us.php">About us </a>
+                                <a href="about-us.php" target="_self">About us </a>
                             </div>
                             <div class="mobile-menu-link pages">
-                                <a>
+                                <a target="_self">
                                     Pages
                                     <img src='./images/page-arrow.png' alt='dropdown-menu'>
                                 </a>
                                 <div class='mobile-page-content'>
-                                    <a href='practice-area.php'>Practice Area</a>
-                                    <a href='pricing.php'>Pricing</a>
-                                    <a href='case-result.php'>Cases</a>
-                                    <a href='blog.php'>Blog</a>
-                                    <a href='testimonials.php'>Testimonials</a>
+                                    <a href='practice-area.php' target="_self">Practice Area</a>
+                                    <a href='pricing.php' target="_self">Pricing</a>
+                                    <a href='case-result.php' target="_self">Cases</a>
+                                    <a href='blog.php' target="_self">Blog</a>
+                                    <a href='testimonials.php' target="_self">Testimonials</a>
                                 </div>
                             </div>
                             <div class="mobile-menu-link">
-                                <a href="contact.php">Contact Us</a>
+                                <a href="contact.php" target="_self">Contact Us</a>
                             </div>
                         </nav>
                     </div>
@@ -112,7 +112,7 @@
                                 <div class='contact-wrap'>
                                     Call Us On:
                                 </div>
-                                <a href="tel: 987654321">
+                                <a href="tel: 987654321" target="_self">
                                     911-987654321
                                 </a>
                             </div>
@@ -126,7 +126,7 @@
                                 <div class='contact-wrap'>
                                     Email Us:
                                 </div>
-                                <a href="mailto:yourmail@mail.com">
+                                <a href="mailto:yourmail@mail.com" target="_self">
                                     yourmail@mail.com
                                 </a>
                             </div>
@@ -176,7 +176,7 @@
             <footer>
                 <div class='footer-top'>
                     <div class="footer-logo">
-                        <a href='index.php'>
+                        <a href='index.php' target="_self">
                             <img src="./images/attorneystar.png" alt="Attorneyster" width='398' height='79'>
                         </a>
                     </div>
@@ -188,18 +188,18 @@
                             </div>
 
                             <ul>
-                                <li><a href='index.php'>Home</a></li>
+                                <li><a href='index.php' target="_self">Home</a></li>
 
-                                <li><a href='#'>Lawyer Single</a></li>
-                                <li><a href='about-us.php'>About</a></li>
-                                <li><a href='case-result.php'>Case Results</a></li>
-                                <li><a href='contact.php'>Contact</a></li>
-                                <li><a href='practice-area.php'>Practice Area</a></li>
-                                <li><a href='blog.php'>Blog</a></li>
-                                <li><a href='pricing.php'>Packages</a></li>
-                                <li><a href='blog-single.php'>Blog Post</a></li>
-                                <li><a href='#'>Package Single</a></li>
-                                <li><a href='#'>Lawyers</a></li>
+                                <li><a href='#' target="_self">Lawyer Single</a></li>
+                                <li><a href='about-us.php' target="_self">About</a></li>
+                                <li><a href='case-result.php' target="_self">Case Results</a></li>
+                                <li><a href='contact.php' target="_self">Contact</a></li>
+                                <li><a href='practice-area.php' target="_self">Practice Area</a></li>
+                                <li><a href='blog.php' target="_self">Blog</a></li>
+                                <li><a href='pricing.php' target="_self">Packages</a></li>
+                                <li><a href='blog-single.php' target="_self">Blog Post</a></li>
+                                <li><a href='#' target="_self">Package Single</a></li>
+                                <li><a href='#' target="_self">Lawyers</a></li>
                                 <ul>
                         </div>
 
@@ -209,13 +209,13 @@
                             </div>
 
                             <ul>
-                                <li><a href='#'>Start Here</a></li>
-                                <li><a href='#'>Style Guide</a></li>
-                                <li><a href='404.php'>404 Not Found</a></li>
-                                <li><a href='password-protection.php'>Password Protected</a></li>
-                                <li><a href='licenses.php'>Licenses</a></li>
+                                <li><a href='#' target="_self">Start Here</a></li>
+                                <li><a href='#' target="_self">Style Guide</a></li>
+                                <li><a href='404.php' target="_self">404 Not Found</a></li>
+                                <li><a href='password-protection.php' target="_self">Password Protected</a></li>
+                                <li><a href='licenses.php' target="_self">Licenses</a></li>
                                 <li><a href='changelog.php
-                                '>Changelog</a></li>
+                                ' target="_self">Changelog</a></li>
                             </ul>
                         </div>
 
@@ -225,11 +225,11 @@
                             </div>
 
                             <ul>
-                                <li><a href='#'>Family Law</a></li>
-                                <li> <a href='#'>Criminal Law</a></li>
-                                <li><a href='cases-single.php'>Parsonal Injury</a></li>
-                                <li><a href='#'>Real Estate Law</a></li>
-                                <li><a href='business-law.php'>Business Law</a></li>
+                                <li><a href='#' target="_self">Family Law</a></li>
+                                <li> <a href='#' target="_self">Criminal Law</a></li>
+                                <li><a href='cases-single.php' target="_self">Parsonal Injury</a></li>
+                                <li><a href='#' target="_self">Real Estate Law</a></li>
+                                <li><a href='business-law.php' target="_self">Business Law</a></li>
                             </ul>
                         </div>
 
@@ -248,13 +248,13 @@
                                 </li>
                                 <li>
                                     <p>Phone: </p>
-                                    <a href="tel: 987654321">
+                                    <a href="tel: 987654321" target="_self">
                                         (011) 987654321
                                     </a>
                                 </li>
                                 <li>
                                     <p>Email: </p>
-                                    <a href='mailto:info@example.com'>
+                                    <a href='mailto:info@example.com' target="_self">
                                         Info@Example.com
                                     </a>
                                 </li>
